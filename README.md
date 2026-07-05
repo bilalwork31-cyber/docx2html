@@ -6,6 +6,8 @@ HTML file, with all styling, images and fonts inlined. It is a from-scratch
 reader for the Office Open XML format, written in pure Python. No LibreOffice,
 no Word, and no third-party dependencies.
 
+Available on PyPI: https://pypi.org/project/fancydocx/0.1.0/
+
 
 Features
 --------
